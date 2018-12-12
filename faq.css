@@ -1,0 +1,68 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+head{
+  background-size: cover;
+  background-position: center;
+
+}
+.main-nav
+{
+  float:right;
+  list-style: none;
+  margin-right:50px;
+  
+
+}
+
+.main-nav li
+{
+
+}
+.main-nav li a
+{
+  color: white;
+text-decoration: none;
+  padding: 5px 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+
+}
+
+.main-nav li.active a
+{
+  border: 1px solid white;
+  border-top: none;
+  border-bottom: none;
+
+
+}
+
+.main-nav li a:hover
+{
+  border: 1px solid white;
+  border-top: none;
+  border-bottom: none;
+}
+
+.head {
+  font-family: fantasy;
+  color: #b3b3b3;
+  font-size: 70px;
+  position: center;
+  margin-left: 850px;
+  margin-top: 30px;
+
+}
+
+.vragen
+{
+  font-family: fantasy;
+  color: #b3b3b3;
+  font-size: 15px;
+  position: center;
+margin-left: 40px;
+margin-top: 20px;
+}
